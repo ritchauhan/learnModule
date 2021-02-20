@@ -4,7 +4,7 @@ class Node {
       this.right = null;
       this.value = value;
     }
-  }
+}
   
   class BinarySearchTree {
     constructor(){
