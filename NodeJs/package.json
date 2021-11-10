@@ -1,0 +1,18 @@
+{
+  "name": "dev",
+  "version": "1.0.0",
+  "description": "node development project",
+  "main": "app.js",
+  "scripts": {
+    "start" : "nodemon server.js"
+  },
+  "author": "Ritesh Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.2",
+    "loadash": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
